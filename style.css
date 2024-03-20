@@ -27,6 +27,7 @@ h1 {
 .seccion-oscura {
   color: #ffe5f0;
   background-color:#343357;
+  text-align: justify;
 }
 
 .seccion-clara {
@@ -38,6 +39,7 @@ h1 {
   font-size: 2rem;
   padding: 15px 0;
   font-family: 'Rubik Dirt';
+  text-align: center;
 }
 
 .seccion-descripcion {
@@ -52,12 +54,13 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: #f6aee0;
+  background-color:#343357;
   border: #f6aee0;
+  color: #ffe8f8;
   
 }
 .btn-info:hover{
-  background-color: #f17cb0;
+  background-color: #f6aee0;
 }
 
 .texto-negro {
@@ -96,11 +99,11 @@ h1 {
 .sobre-mi {
   height: 500px;
   padding: 10px;
+  text-align: justify;
 }
 
 .sobre-mi .contenedor {
   max-width: 600px;
-  text-align: center;
 }
 
 /* Experiencia */
